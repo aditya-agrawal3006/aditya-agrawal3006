@@ -66,5 +66,3 @@ I'm interested in software engineering, applied AI, and the ways data and techno
 
 **University of Maryland, College Park** — B.S., Computer Science & Supply Chain Management  
 President's Scholarship Recipient
-
-**FBLA Collegiate, University of Maryland** — President
