@@ -6,8 +6,11 @@
 
 Software Engineering · Applied AI · Data Engineering · Quantitative Finance
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-agr)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-343A40?logo=gmail&logoColor=white)](mailto:aditya.agrawal3006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-agr/)
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-Email%20via%20Gmail-EA4335?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=aditya.agrawal3006%40gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-My%20Repositories-181717?logo=github&logoColor=white)](https://github.com/aditya-agrawal3006)
+
+**Email:** [aditya.agrawal3006@gmail.com](mailto:aditya.agrawal3006@gmail.com)
 
 </div>
 
@@ -18,6 +21,38 @@ Software Engineering · Applied AI · Data Engineering · Quantitative Finance
 I'm a Computer Science and Supply Chain Management student at the University of Maryland. At Capital One, I worked with SQL, Python, and large credit datasets. At Johnson & Johnson, I built dashboards and automated reports for supply chain planning.
 
 I'm interested in software engineering, applied AI, and the ways data and technology can support decisions in business and financial markets.
+
+### Featured Projects
+
+A selection of my programming and analytical work, organized by technical area. Each repository links to individual project documentation and source code or reports.
+
+#### Software Engineering & Systems
+
+| Repository | Highlights |
+| --- | --- |
+| **[C Systems Programming](https://github.com/aditya-agrawal3006/core-C-coursework)** | Unix job-control shell, Make-style build tool, custom memory allocator, hash map, and POSIX-threaded matrix processing. |
+| **[Java Applications & Algorithms](https://github.com/aditya-agrawal3006/core-java-coursework)** | Interactive Space Invaders game, concurrent order processor, graph traversal and shortest paths, and object-oriented exam management. |
+| **[OCaml Functional Programming](https://github.com/aditya-agrawal3006/ocaml-functional-programming)** | Recursion, higher-order functions, functional database operations, trees, and scheduling algorithms. |
+| **[x86-64 Assembly](https://github.com/aditya-agrawal3006/x86-64-assembly-coursework)** | Battery and thermometer display controllers using register-level logic, sensor processing, and bitwise operations. |
+
+#### Data Science & Statistical Computing
+
+| Repository | Highlights |
+| --- | --- |
+| **[Python Data Science & SQL](https://github.com/aditya-agrawal3006/python-data-science-coursework)** | Data cleaning, pandas, APIs, SQLite, exploratory analysis, statistical simulations, and hypothesis testing. |
+| **[R Statistical Computing](https://github.com/aditya-agrawal3006/r-statistical-computing)** | Probability and Monte Carlo simulation, sampling distributions, and financial-inclusion data visualizations (PDF reports). |
+
+#### Mathematics & Numerical Computing
+
+| Repository | Highlights |
+| --- | --- |
+| **[MATLAB Linear Algebra](https://github.com/aditya-agrawal3006/matlab-linear-algebra)** | Matrix methods, linear transformations, subspaces, eigenvalues, and orthogonality (reports and a MATLAB script). |
+
+**Additional code:** [Java coursework archive](https://github.com/aditya-agrawal3006/java-coursework-archive) · [C coursework archive](https://github.com/aditya-agrawal3006/c-coursework-archive)
+
+> The repositories include projects developed through University of Maryland coursework. Some starter interfaces, specifications, and supporting files were course-provided, as noted in the projects.
+
+---
 
 ### Technical Skills
 
@@ -71,3 +106,13 @@ I'm interested in software engineering, applied AI, and the ways data and techno
 
 **University of Maryland, College Park** — B.S., Computer Science & Supply Chain Management  
 President's Scholarship Recipient
+
+
+---
+
+### Let's Connect
+
+I'm interested in software engineering, applied AI, data engineering, and building technology that solves real-world problems.
+
+- **LinkedIn:** [linkedin.com/in/aditya-agr](https://www.linkedin.com/in/aditya-agr/)
+- **Contact me:** [Compose an email in Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=aditya.agrawal3006%40gmail.com) or [use your default email app](mailto:aditya.agrawal3006@gmail.com)
